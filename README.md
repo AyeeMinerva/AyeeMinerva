@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AyeeMinerva&textBg=false&section=header&reversal=false
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AyeeMinerva&textBg=false&section=header&reversal=false)
 
 <!--
 **AyeeMinerva/AyeeMinerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
