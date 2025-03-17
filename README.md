@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring and learning about the latest technological advancements, with an aspiration for the Truth.
 - 🎓 &nbsp; Studying *Data Science and Big Data Technology* at Inner Mongolia University as a Bachelor's student.
- - 💼 &nbsp; Core member of IMUDGES, managing student organization affairs and development guidance.
+ - 💼 &nbsp; Core student member of IMUDGES, managing student organization affairs and development guidance.
 - 🌱 &nbsp; Learning more about Large Language Models, Generative AI and other Artificial Intelligence.
 <!-- - ✍️ &nbsp;. -->
 
