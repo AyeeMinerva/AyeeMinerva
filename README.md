@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AyeeMinerva&textBg=false&section=header&reversal=false&fontAlign=50&fontSize=70&fontAlignY=40)
 
 <h2> Hey there! I'm AyeeMinerva.</h2>
-
+<h2>我正在寻求保研机会（2026年入学），若您有好的去向，敬请联系。</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring and learning about the latest technological advancements, with an aspiration for the Truth.
