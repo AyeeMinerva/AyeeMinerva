@@ -60,7 +60,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:0221120282@mail.imu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-0221120282@mail.imu.edu.cn-blue?style=flat-square&logo=gmail"></a>
 <a href="mailto:AyeeMinerva@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-AyeeMinerva@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
