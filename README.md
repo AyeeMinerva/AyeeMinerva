@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring and learning about the latest technological advancements, with an aspiration for the Truth.
 <!-- - 🎓 &nbsp; Studying *Data Science and Big Data Technology* at Inner Mongolia University as a Bachelor's student. -->
-- 🌱 &nbsp; Learning more about Large Language Models, Generative AI and other Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Large Language Models, Generative AI, and other Artificial Intelligence, with a particular focus on LLM post-training and the advanced theory of LoRA.
 <!-- - ✍️ &nbsp;. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
